@@ -1,0 +1,8 @@
+name: shiny_weather
+account: karafede
+server: shinyapps.io
+bundleId: 460043
+url: https://karafede.shinyapps.io/shiny_weather/
+when: 1464002316.46558
+asMultiple: FALSE
+asStatic: FALSE
